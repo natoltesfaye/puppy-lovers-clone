@@ -8,7 +8,7 @@ https://natoltesfaye.github.io/puppy-lovers-clone/
 
 ## 📸 Screenshot
 
-![Puppy Lovers Website](images/puppy-lovers-screenshot.png)
+![Puppy Lovers Website](images/puppy-lovers-screenshot.jpeg)
 
 ## 🛠️ Technologies
 
